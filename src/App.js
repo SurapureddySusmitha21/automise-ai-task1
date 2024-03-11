@@ -58,7 +58,7 @@ const App = () => {
             id: taskCounter + index,
             name: taskName,
             quantity: taskQuantity,
-            updates: 1,
+            updates: 0,
           })
         );
 
